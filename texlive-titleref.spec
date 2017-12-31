@@ -5,8 +5,8 @@
 # catalog-license pd
 # catalog-version 2.0
 Name:		texlive-titleref
-Version:	2.0
-Release:	10
+Version:	3.1
+Release:	1
 Summary:	A "\titleref" command to cross-reference section titles
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/titleref
