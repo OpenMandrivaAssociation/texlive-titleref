@@ -3,7 +3,7 @@ Version:	18729
 Release:	2
 Summary:	A "\titleref" command to cross-reference section titles
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/titleref
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/titleref
 License:	PD
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/titleref.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/titleref.doc.r%{version}.tar.xz
